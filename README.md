@@ -5,7 +5,7 @@ The goal is to predict restaurant profits based on city population using **linea
 
 ## Project Structure
 
-- `notebooks/linear_regression_lab.ipynb` : Jupyter notebook with all code, exercises, and plots.
+- `notebooks/linear_regression_labipynb` : Jupyter notebook with all code, exercises, and plots.
 - `data/` : Contains dataset used in the lab.
 - `requirements.txt` : Python dependencies.
 
