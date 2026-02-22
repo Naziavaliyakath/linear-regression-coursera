@@ -7,7 +7,6 @@ The goal is to predict restaurant profits based on city population using **linea
 
 - `notebooks/linear_regression_labipynb` : Jupyter notebook with all code, exercises, and plots.
 - `data/` : Contains dataset used in the lab.
-- `requirements.txt` : Python dependencies.
 
 ## Features
 
@@ -21,5 +20,5 @@ The goal is to predict restaurant profits based on city population using **linea
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linear-regression-practice.git
-cd linear-regression-practice
+git clone https://github.com/YOUR_USERNAME/linear-regression-coursera.git
+cd linear-regression-coursera
